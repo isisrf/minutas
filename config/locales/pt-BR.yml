@@ -810,7 +810,7 @@ pt-BR:
         refuse:
           modal_body: Se recusar, você não poderá usar a plataforma, você pode <a href="%{download_your_data_path}">baixar seus dados</a> e / ou <a href="%{delete_path}">excluir sua conta</a>.
           modal_btn_continue: Aceite os termos e continue
-          modal_button: Recuse os termos
+          modal_button: Recuso os termos
         required_review:
           title: 'Necessário: Revisar atualizações de nossos Termos de Uso'
     passwords:
