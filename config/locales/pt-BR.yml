@@ -812,7 +812,7 @@ pt-BR:
           modal_btn_continue: Aceite os termos e continue
           modal_button: Recuse os termos
         required_review:
-          title: 'Required: Review updates to our terms of service'
+          title: 'Necessário: Revisar atualizações de nossos Termos de Uso'
     passwords:
       update:
         error: Houve um problema ao atualizar a senha.
